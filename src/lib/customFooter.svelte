@@ -1,5 +1,4 @@
 <script lang='ts'>
-    let outerWidth: number;
     $: outerWidth = 0
 </script>
 
